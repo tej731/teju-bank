@@ -1,0 +1,20 @@
+.about{
+    
+    padding-top: 60px;
+    text-align: center;
+    padding:250px;
+    background-color: rgba(255,255,255,0.7);
+    
+}
+p{
+    margin: 70px;
+    font-size: large;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/R.6a66ce3998aabff589e59ff998b98b05?rik=Z7LfolUviRXJ3Q&riu=http%3a%2f%2fsalempolyclinic.com%2fwp-content%2fuploads%2f2020%2f05%2fblood-bank1.jpg&ehk=cFdLfTnjE2BJGd58hPcy8bjfK3pMu9sUTmZOdEW9IzM%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1);
+    background-position: center;
+    background-size: cover; 
+    padding:0;
+    
+}
+

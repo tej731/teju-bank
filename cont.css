@@ -1,0 +1,12 @@
+body{ margin: 0;
+background-image:url(https://th.bing.com/th/id/OIP.BZgFByIwSaMbH1GJnTOalwHaDJ?rs=1&pid=ImgDetMain);
+background-position: center;
+    background-size: cover; 
+    padding:0;
+    font-size: larger;
+}
+.cont{
+    padding:250px;
+    background-color: rgba(255,255,255,0.7);
+    text-align: center;
+}
